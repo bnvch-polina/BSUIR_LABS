@@ -1,0 +1,16 @@
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\bin\Debug\net9.0-windows\InformationTheoryLab1.exe
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\bin\Debug\net9.0-windows\InformationTheoryLab1.deps.json
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\bin\Debug\net9.0-windows\InformationTheoryLab1.runtimeconfig.json
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\bin\Debug\net9.0-windows\InformationTheoryLab1.dll
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\bin\Debug\net9.0-windows\InformationTheoryLab1.pdb
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\obj\Debug\net9.0-windows\InformationTheoryLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\obj\Debug\net9.0-windows\InformationTheoryLab1.AssemblyInfoInputs.cache
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\obj\Debug\net9.0-windows\InformationTheoryLab1.AssemblyInfo.cs
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\obj\Debug\net9.0-windows\InformationTheoryLab1.csproj.CoreCompileInputs.cache
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\obj\Debug\net9.0-windows\InformationTheoryLab1.dll
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\obj\Debug\net9.0-windows\refint\InformationTheoryLab1.dll
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\obj\Debug\net9.0-windows\InformationTheoryLab1.pdb
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\obj\Debug\net9.0-windows\InformationTheoryLab1.genruntimeconfig.cache
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\obj\Debug\net9.0-windows\ref\InformationTheoryLab1.dll
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\obj\Debug\net9.0-windows\InformationTheoryLab1.MainForm.resources
+D:\WORK_FOLDER\BSUIR\2_COURSE\TI\InformationTheoryLab1\InformationTheoryLab1\obj\Debug\net9.0-windows\InformationTheoryLab1.csproj.GenerateResource.cache
