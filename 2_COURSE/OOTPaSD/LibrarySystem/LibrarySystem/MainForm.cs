@@ -74,4 +74,9 @@ public partial class MainForm : Form
         $"Textbook: {textbook.Title}, Author: {textbook.Author}, Subject: {textbook.Subject}\n"+
             $"Fiction Book: {fictionBook.Title}, Author: {fictionBook.Author}, Genre: {fictionBook.Genre}");
     }
+
+    private void label1_Click(object sender, EventArgs e)
+    {
+        throw new System.NotImplementedException();
+    }
 }

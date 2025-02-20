@@ -12,3 +12,5 @@ D:\WORK_FOLDER\BSUIR\2_COURSE\OOTPaSD\LibrarySystem\LibrarySystem\obj\Debug\net9
 D:\WORK_FOLDER\BSUIR\2_COURSE\OOTPaSD\LibrarySystem\LibrarySystem\obj\Debug\net9.0-windows\LibrarySystem.pdb
 D:\WORK_FOLDER\BSUIR\2_COURSE\OOTPaSD\LibrarySystem\LibrarySystem\obj\Debug\net9.0-windows\LibrarySystem.genruntimeconfig.cache
 D:\WORK_FOLDER\BSUIR\2_COURSE\OOTPaSD\LibrarySystem\LibrarySystem\obj\Debug\net9.0-windows\ref\LibrarySystem.dll
+D:\WORK_FOLDER\BSUIR\2_COURSE\OOTPaSD\LibrarySystem\LibrarySystem\obj\Debug\net9.0-windows\LibrarySystem.MainForm.resources
+D:\WORK_FOLDER\BSUIR\2_COURSE\OOTPaSD\LibrarySystem\LibrarySystem\obj\Debug\net9.0-windows\LibrarySystem.csproj.GenerateResource.cache
